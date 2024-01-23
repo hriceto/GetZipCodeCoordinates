@@ -1,0 +1,6 @@
+C:\DEVELOPMENT\TFS\jobs website\Main\GetZipCodeCoordinates\GetZipCodeCoordinates\bin\Debug\GetZipCodeCoordinates.exe
+C:\DEVELOPMENT\TFS\jobs website\Main\GetZipCodeCoordinates\GetZipCodeCoordinates\bin\Debug\GetZipCodeCoordinates.pdb
+C:\DEVELOPMENT\TFS\jobs website\Main\GetZipCodeCoordinates\GetZipCodeCoordinates\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\DEVELOPMENT\TFS\jobs website\Main\GetZipCodeCoordinates\GetZipCodeCoordinates\obj\x86\Debug\GetZipCodeCoordinates.exe
+C:\DEVELOPMENT\TFS\jobs website\Main\GetZipCodeCoordinates\GetZipCodeCoordinates\obj\x86\Debug\GetZipCodeCoordinates.pdb
+C:\DEVELOPMENT\TFS\jobs website\Main\GetZipCodeCoordinates\GetZipCodeCoordinates\bin\Debug\GetZipCodeCoordinates.exe.config
